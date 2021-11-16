@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Abhisheksshetty/hiphopreact/static/css/main.0e3927be.chunk.css",
-    "main.js": "/Abhisheksshetty/hiphopreact/static/js/main.f84b5452.chunk.js",
-    "main.js.map": "/Abhisheksshetty/hiphopreact/static/js/main.f84b5452.chunk.js.map",
-    "runtime-main.js": "/Abhisheksshetty/hiphopreact/static/js/runtime-main.429d89c5.js",
-    "runtime-main.js.map": "/Abhisheksshetty/hiphopreact/static/js/runtime-main.429d89c5.js.map",
-    "static/js/2.e4b2c34b.chunk.js": "/Abhisheksshetty/hiphopreact/static/js/2.e4b2c34b.chunk.js",
-    "static/js/2.e4b2c34b.chunk.js.map": "/Abhisheksshetty/hiphopreact/static/js/2.e4b2c34b.chunk.js.map",
-    "index.html": "/Abhisheksshetty/hiphopreact/index.html",
-    "static/css/main.0e3927be.chunk.css.map": "/Abhisheksshetty/hiphopreact/static/css/main.0e3927be.chunk.css.map",
-    "static/js/2.e4b2c34b.chunk.js.LICENSE.txt": "/Abhisheksshetty/hiphopreact/static/js/2.e4b2c34b.chunk.js.LICENSE.txt",
-    "static/media/eminem.0dfba14f.jpeg": "/Abhisheksshetty/hiphopreact/static/media/eminem.0dfba14f.jpeg",
-    "static/media/kendrick.8d09cab8.png": "/Abhisheksshetty/hiphopreact/static/media/kendrick.8d09cab8.png",
-    "static/media/snoop.048f8c20.jpg": "/Abhisheksshetty/hiphopreact/static/media/snoop.048f8c20.jpg",
-    "static/media/tech.aeee3e32.jpeg": "/Abhisheksshetty/hiphopreact/static/media/tech.aeee3e32.jpeg"
+    "main.css": "/hiphopreact/static/css/main.0e3927be.chunk.css",
+    "main.js": "/hiphopreact/static/js/main.f84b5452.chunk.js",
+    "main.js.map": "/hiphopreact/static/js/main.f84b5452.chunk.js.map",
+    "runtime-main.js": "/hiphopreact/static/js/runtime-main.9dbd4076.js",
+    "runtime-main.js.map": "/hiphopreact/static/js/runtime-main.9dbd4076.js.map",
+    "static/js/2.e4b2c34b.chunk.js": "/hiphopreact/static/js/2.e4b2c34b.chunk.js",
+    "static/js/2.e4b2c34b.chunk.js.map": "/hiphopreact/static/js/2.e4b2c34b.chunk.js.map",
+    "index.html": "/hiphopreact/index.html",
+    "static/css/main.0e3927be.chunk.css.map": "/hiphopreact/static/css/main.0e3927be.chunk.css.map",
+    "static/js/2.e4b2c34b.chunk.js.LICENSE.txt": "/hiphopreact/static/js/2.e4b2c34b.chunk.js.LICENSE.txt",
+    "static/media/eminem.0dfba14f.jpeg": "/hiphopreact/static/media/eminem.0dfba14f.jpeg",
+    "static/media/kendrick.8d09cab8.png": "/hiphopreact/static/media/kendrick.8d09cab8.png",
+    "static/media/snoop.048f8c20.jpg": "/hiphopreact/static/media/snoop.048f8c20.jpg",
+    "static/media/tech.aeee3e32.jpeg": "/hiphopreact/static/media/tech.aeee3e32.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.429d89c5.js",
+    "static/js/runtime-main.9dbd4076.js",
     "static/js/2.e4b2c34b.chunk.js",
     "static/css/main.0e3927be.chunk.css",
     "static/js/main.f84b5452.chunk.js"
